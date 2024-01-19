@@ -2,7 +2,11 @@ package BattleSystem;
 
 public class turnController {
 
-    private boolean Won; 
-    private int turnNum; 
-    private int spellSelected;
+
+
+    public turn () { 
+        battleSystem.playerTurn(file.import.Player(".txt") , enemy.encounterHandle(file.import.Enemy(".txt"));
+        battleSystem.execute.winCondition(file.import.Encounter(".txt"));
+        execute.turn(import.damageValues());
+    }
 }
