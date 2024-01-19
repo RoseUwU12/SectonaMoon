@@ -45,4 +45,11 @@ public class MulConnect {
     public boolean getBanStatus() {
         return isBanned;
     }
+
+    public party() { 
+    file.get(party.server.dhrcp); 
+    party.max(5); 
+    data.sort.rank(greatestLV, lowestLV); 
+    file.save.upload(Party.data); 
+    }    
 }
